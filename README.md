@@ -13,3 +13,4 @@ Katyayani, Manisha, Kishore, Rohit, Jaydev, Ankita
 ## Installation
 1. Install the [Tampermonkey extension](https://www.tampermonkey.net/) in your web browser.
 2. Open your `fr24-polygon-drawer.user.js` file in this repository and click **Raw** to trigger direct installation.
+3. Click here to install: [Install FR24 Polygon Drawer](https://github.com/Katyayani2006/FR24-Georeferenced-Polygon-Drawer/raw/refs/heads/main/FR24-Georeferenced-Polygon-Drawer/fr24-polygon-drawer.user.js)
